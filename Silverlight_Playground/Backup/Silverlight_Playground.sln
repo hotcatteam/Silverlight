@@ -1,0 +1,50 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HelloWorld", "HelloWorld\HelloWorld.csproj", "{6CB03643-465B-40D9-8454-45447B30EB07}"
+	ProjectSection(ProjectDependencies) = postProject
+		{E4CCABE6-BFD7-4338-BCC9-F6E0AF02BED5} = {E4CCABE6-BFD7-4338-BCC9-F6E0AF02BED5}
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HelloWorld.Web", "HelloWorld.Web\HelloWorld.Web.csproj", "{E4CCABE6-BFD7-4338-BCC9-F6E0AF02BED5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HelloWorld.Web.Tests", "HelloWorld.Web.Tests\HelloWorld.Web.Tests.csproj", "{6E677779-68F8-4CE2-B2CE-85ABB30D0DB2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TwitterSearch", "TwitterSearch\TwitterSearch.csproj", "{28BB8C8E-9A7F-40A2-95F1-9A6FC7FBEE39}"
+EndProject
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "Code", "..\", "{208E0997-68A0-414C-AC74-09C9DA20ECC5}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFramework = "3.5"
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6CB03643-465B-40D9-8454-45447B30EB07}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6CB03643-465B-40D9-8454-45447B30EB07}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6CB03643-465B-40D9-8454-45447B30EB07}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6CB03643-465B-40D9-8454-45447B30EB07}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E4CCABE6-BFD7-4338-BCC9-F6E0AF02BED5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E4CCABE6-BFD7-4338-BCC9-F6E0AF02BED5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E4CCABE6-BFD7-4338-BCC9-F6E0AF02BED5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E4CCABE6-BFD7-4338-BCC9-F6E0AF02BED5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6E677779-68F8-4CE2-B2CE-85ABB30D0DB2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6E677779-68F8-4CE2-B2CE-85ABB30D0DB2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6E677779-68F8-4CE2-B2CE-85ABB30D0DB2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6E677779-68F8-4CE2-B2CE-85ABB30D0DB2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{28BB8C8E-9A7F-40A2-95F1-9A6FC7FBEE39}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{28BB8C8E-9A7F-40A2-95F1-9A6FC7FBEE39}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{28BB8C8E-9A7F-40A2-95F1-9A6FC7FBEE39}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{28BB8C8E-9A7F-40A2-95F1-9A6FC7FBEE39}.Release|Any CPU.Build.0 = Release|Any CPU
+		{208E0997-68A0-414C-AC74-09C9DA20ECC5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{208E0997-68A0-414C-AC74-09C9DA20ECC5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{208E0997-68A0-414C-AC74-09C9DA20ECC5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{208E0997-68A0-414C-AC74-09C9DA20ECC5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

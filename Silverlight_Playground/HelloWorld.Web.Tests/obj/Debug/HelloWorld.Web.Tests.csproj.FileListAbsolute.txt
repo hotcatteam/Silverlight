@@ -1,0 +1,8 @@
+d:\cguedes\ISEL\Studdy\Silverlight\Code\Silverlight_Playground\HelloWorld.Web.Tests\bin\Debug\HelloWorld.Web.Tests.dll.config
+d:\cguedes\ISEL\Studdy\Silverlight\Code\Silverlight_Playground\HelloWorld.Web.Tests\bin\Debug\HelloWorld.Web.Tests.dll
+d:\cguedes\ISEL\Studdy\Silverlight\Code\Silverlight_Playground\HelloWorld.Web.Tests\bin\Debug\HelloWorld.Web.Tests.pdb
+d:\cguedes\ISEL\Studdy\Silverlight\Code\Silverlight_Playground\HelloWorld.Web.Tests\bin\Debug\HelloWorld.Web.dll
+d:\cguedes\ISEL\Studdy\Silverlight\Code\Silverlight_Playground\HelloWorld.Web.Tests\bin\Debug\HelloWorld.Web.pdb
+d:\cguedes\ISEL\Studdy\Silverlight\Code\Silverlight_Playground\HelloWorld.Web.Tests\obj\Debug\ResolveAssemblyReference.cache
+d:\cguedes\ISEL\Studdy\Silverlight\Code\Silverlight_Playground\HelloWorld.Web.Tests\obj\Debug\HelloWorld.Web.Tests.dll
+d:\cguedes\ISEL\Studdy\Silverlight\Code\Silverlight_Playground\HelloWorld.Web.Tests\obj\Debug\HelloWorld.Web.Tests.pdb

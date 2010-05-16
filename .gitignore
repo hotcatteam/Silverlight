@@ -1,0 +1,14 @@
+
+# Ignore all .class files
+
+*.vcproj.*.user
+*.ncb
+*.aps
+*.suo
+*.cache
+*.pdb
+_ReSharper*/
+*.ReSharper.user
+
+# Ignore thumbnais created by windows
+Thumbs.db
