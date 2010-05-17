@@ -7,8 +7,9 @@
 *.suo
 *.cache
 *.pdb
-_ReSharper*/*
+_ReSharper*
 *.ReSharper.user
+
 
 # Ignore thumbnais created by windows
 Thumbs.db

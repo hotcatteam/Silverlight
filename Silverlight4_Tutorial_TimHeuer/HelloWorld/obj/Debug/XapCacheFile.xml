@@ -1,0 +1,9 @@
+﻿<xapCache source="D:\cguedes\ISEL\Studdy\Silverlight\Code\Silverlight4_Tutorial_TimHeuer\HelloWorld\Bin\Debug\HelloWorld.xap" wasSigned="False" certificateThumbprint="" TimeStampUrl="" lastWriteTime="17-05-2010 10:41:12">
+  <file source="D:\cguedes\ISEL\Studdy\Silverlight\Code\Silverlight4_Tutorial_TimHeuer\HelloWorld\obj\Debug\HelloWorld.dll" archivePath="HelloWorld.dll" lastWriteTime="17-05-2010 10:41:11" />
+  <file source="c:\Program Files (x86)\Microsoft SDKs\Silverlight\v4.0\Libraries\Client\System.ComponentModel.DataAnnotations.dll" archivePath="System.ComponentModel.DataAnnotations.dll" lastWriteTime="01-04-2010 00:46:10" />
+  <file source="c:\Program Files (x86)\Microsoft SDKs\RIA Services\v1.0\Libraries\Silverlight\System.ServiceModel.DomainServices.Client.dll" archivePath="System.ServiceModel.DomainServices.Client.dll" lastWriteTime="01-04-2010 11:34:28" />
+  <file source="c:\Program Files (x86)\Microsoft SDKs\RIA Services\v1.0\Libraries\Silverlight\System.ServiceModel.DomainServices.Client.Web.dll" archivePath="System.ServiceModel.DomainServices.Client.Web.dll" lastWriteTime="01-04-2010 11:34:28" />
+  <file source="c:\Program Files (x86)\Microsoft SDKs\Silverlight\v4.0\Libraries\Client\System.ServiceModel.Web.Extensions.dll" archivePath="System.ServiceModel.Web.Extensions.dll" lastWriteTime="01-04-2010 00:46:10" />
+  <file source="c:\Program Files (x86)\Microsoft SDKs\Silverlight\v4.0\Libraries\Client\System.Windows.Controls.Navigation.dll" archivePath="System.Windows.Controls.Navigation.dll" lastWriteTime="01-04-2010 00:46:10" />
+  <file source="D:\cguedes\ISEL\Studdy\Silverlight\Code\Silverlight4_Tutorial_TimHeuer\HelloWorld\Bin\Debug\AppManifest.xaml" archivePath="AppManifest.xaml" lastWriteTime="13-05-2010 17:03:18" />
+</xapCache>
