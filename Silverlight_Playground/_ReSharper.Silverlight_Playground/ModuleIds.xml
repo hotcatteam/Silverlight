@@ -1,7 +1,0 @@
-<Modules>
-  <Module PersistentId="6CB03643-465B-40D9-8454-45447B30EB07" ModuleId="HelloWorld" />
-  <Module PersistentId="6E677779-68F8-4CE2-B2CE-85ABB30D0DB2" ModuleId="HelloWorld.Web.Tests" />
-  <Module PersistentId="E4CCABE6-BFD7-4338-BCC9-F6E0AF02BED5" ModuleId="HelloWorld.Web" />
-  <Module PersistentId="64F6C40E-10EB-497F-98E7-6FE4F67D267A" ModuleId="TwitterSearch" />
-  <Module PersistentId="28BB8C8E-9A7F-40A2-95F1-9A6FC7FBEE39" ModuleId="TwitterSearch_1" />
-</Modules>

@@ -1,5 +1,0 @@
-d:\cguedes\ISEL\Studdy\Silverlight\Code\Silverlight_Playground\HelloWorld.Web\bin\HelloWorld.Web.dll
-d:\cguedes\ISEL\Studdy\Silverlight\Code\Silverlight_Playground\HelloWorld.Web\bin\HelloWorld.Web.pdb
-d:\cguedes\ISEL\Studdy\Silverlight\Code\Silverlight_Playground\HelloWorld.Web\obj\Debug\ResolveAssemblyReference.cache
-d:\cguedes\ISEL\Studdy\Silverlight\Code\Silverlight_Playground\HelloWorld.Web\obj\Debug\HelloWorld.Web.dll
-d:\cguedes\ISEL\Studdy\Silverlight\Code\Silverlight_Playground\HelloWorld.Web\obj\Debug\HelloWorld.Web.pdb
